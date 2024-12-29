@@ -16,6 +16,7 @@ The goal of this project is to build a controlled space for practicing malware a
 
 <h2>Project walk-through</h2>
 <h3>Part 1:</h3>
-First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>
+First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>. I did not customize VirtualBox in this project.
+<img src="https://i.imgur.com/0FgIHq9.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/> <br/>
 <h3>Part 2:</h3>
 <h2>Conclusion</h2>
