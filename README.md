@@ -15,5 +15,7 @@ The goal of this project is to build a controlled space for practicing malware a
 - Guest Virtual Machines: Windows 10 Pro, Kali Linux (64-bit)<br />
 
 <h2>Project walk-through</h2>
-
+<h3>Part 1:</h3>
+First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>
+<h3>Part 2:</h3>
 <h2>Conclusion</h2>
