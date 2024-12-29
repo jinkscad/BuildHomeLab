@@ -17,8 +17,11 @@ The goal of this project is to build a controlled space for practicing malware a
 <h2>Project walk-through</h2>
 <h3>Part 1:</h3>
 First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>. I did not customize VirtualBox in this project.
-<img src="https://i.imgur.com/0FgIHq9.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/> <br/>
-I built two virtual machines. The first one is Windows 10 Pro, for which I created an ISO image using a<a href="https://www.microsoft.com/en-ca/software-download/windows10iso"> media creation tool.</a> I named this virtual machine "demo" and configured it with a base memory of 4 GB, one CPU, and a virtual hard disk of 50 GB.
+<img src="https://i.imgur.com/0FgIHq9.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+I built two virtual machines. The first one is Windows 10 Pro, for which I created an ISO image using a<a href="https://www.microsoft.com/en-ca/software-download/windows10iso"> media creation tool.</a> I named this virtual machine "demo" and configured it with a base memory of 4 GB, one CPU, and a virtual hard disk of 50 GB.<br />
+The second machine is Kali Linux, which I downloaded and imported as a 64-bit pre-built virtual machine from <a href="https://www.kali.org/get-kali/#kali-virtual-machines" target="_blank">kali.org</a>. I did not perform any additional configuration for this machine. With this, the basic setup of downloading and importing the necessary tools was completed, resulting in the state shown in the picture below.</p>
+<img src="path_to_your_image.jpg" alt="Setup State" style="max-width: 100%; height: auto;">
+
 
 <h3>Part 2:</h3>
 <h2>Conclusion</h2>
