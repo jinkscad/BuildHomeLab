@@ -6,8 +6,13 @@ In the second part, I configured the network settings for both machines to creat
 The goal of this project is to build a controlled space for practicing malware analysis and gaining a deeper understanding of networking principles.
 <br />
 <h2>Languages and Utilities Used</h2>
-- Oracle VirtualBox
+- Oracle VirtualBox<br />
+- Windows Media Creation Tool<br />
+- Kali Linux Pre-built Virtual Machine <br />
+- Windows 10 Pro ISO Image<br />
 <h2>Environments Used </h2>
+- Host Machine: Windows 11 Pro<br />
+- Guest Virtual Machines: Windows 10 Pro, Kali Linux (64-bit)<br />
 
 <h2>Project walk-through</h2>
 
