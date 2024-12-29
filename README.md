@@ -18,7 +18,7 @@ The goal of this project is to build a controlled space for practicing malware a
 <h3>Part 1:</h3>
 First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>. I did not customize VirtualBox in this project.
 <img src="https://i.imgur.com/0FgIHq9.jpeg" height="50%" width="50%" alt="Disk Sanitization Steps"/> <br/>
-I built two virtual machines. The first one is Windows 10 Pro, for which I created an ISO image using a<a href="https://www.virtualbox.org/wiki/Downloads"](https://www.microsoft.com/en-ca/software-download/windows10iso)> media creation tool.</a> I named this virtual machine "demo" and configured it with a base memory of 4 GB, one CPU, and a virtual hard disk of 50 GB.
+I built two virtual machines. The first one is Windows 10 Pro, for which I created an ISO image using a<a href="https://www.microsoft.com/en-ca/software-download/windows10iso"> media creation tool.</a> I named this virtual machine "demo" and configured it with a base memory of 4 GB, one CPU, and a virtual hard disk of 50 GB.
 
 <h3>Part 2:</h3>
 <h2>Conclusion</h2>
