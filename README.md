@@ -37,3 +37,6 @@ I configured the Kali Linux machine the same.
 Finally, I verified the connectivity between the two machines by using the ping command from the Windows machine. As shown in the image below, the two machines successfully connected and communicated with each other.
 <img src="https://i.imgur.com/kZSpWuw.jpeg" style="max-width: 100%; height: auto;">
 <h2>Conclusion</h2>
+This project successfully demonstrated the process of building a secure home lab environment for malware analysis and networking practice. By setting up and configuring two virtual machines (Windows 10 Pro and Kali Linux) on an internal network, I created an isolated environment where the virtual machines could securely communicate with each other without interacting with the host machine.<br />
+The project provided valuable hands-on experience in virtual machine setup, network configuration, and static IP assignment, which are essential skills for cybersecurity professionals. Additionally, it laid the groundwork for conducting controlled malware analysis and gaining a deeper understanding of network communication principles.<br />
+This sandbox environment is a practical and scalable solution for learning and experimenting with advanced cybersecurity techniques in a safe and controlled setting.
