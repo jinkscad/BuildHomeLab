@@ -23,9 +23,9 @@ The second machine is Kali Linux, which I downloaded and imported as a 64-bit pr
 Here, I configured the network settings of the two virtual machines to enable malware analysis. In this lab, I set up an Internal Network where the two virtual machines can communicate with each other but are isolated from the host machine.
 
 First, I configured the Windows 10 virtual machine. I set its network adapter to "Attached to Internal Network" and named the network "mytest." 
-<img src="" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/nBy0AgS.png" style="max-width: 100%; height: auto;"><br />
 I applied the same configuration to the Kali Linux virtual machine, ensuring that both machines are on the same internal network.
-<img src="" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/Ycp3d0m.png" style="max-width: 100%; height: auto;">
 
 Next, I assigned static IP addresses to both machines so they could communicate seamlessly. For the Windows machine, I set the IP address to 192.168.20.10.
 <img src="" style="max-width: 100%; height: auto;">
