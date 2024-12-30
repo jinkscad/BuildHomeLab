@@ -28,12 +28,12 @@ I applied the same configuration to the Kali Linux virtual machine, ensuring tha
 <img src="https://i.imgur.com/Ycp3d0m.png" style="max-width: 100%; height: auto;">
 
 Next, I assigned static IP addresses to both machines so they could communicate seamlessly. For the Windows machine, I set the IP address to 192.168.20.10.
-<img src="" style="max-width: 100%; height: auto;">
-<img src="" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/MeXIoi3.jpeg" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/syXQXlo.jpeg" style="max-width: 100%; height: auto;">
 I configured the Kali Linux machine the same.
-<img src="" style="max-width: 100%; height: auto;">
-<img src="" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/U8ekVQM.jpeg" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/p7PdPP0.jpeg" style="max-width: 100%; height: auto;">
 
 Finally, I verified the connectivity between the two machines by using the ping command from the Windows machine. As shown in the image below, the two machines successfully connected and communicated with each other.
-<img src="" style="max-width: 100%; height: auto;">
+<img src="https://i.imgur.com/kZSpWuw.jpeg" style="max-width: 100%; height: auto;">
 <h2>Conclusion</h2>
