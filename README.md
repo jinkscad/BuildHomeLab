@@ -19,7 +19,21 @@ The goal of this project is to build a controlled space for practicing malware a
 First, I downloaded VirtualBox 7.1.4 for windows host from <a href="https://www.virtualbox.org/wiki/Downloads">virtualbox.org</a>. I did not customize VirtualBox in this project.<br />    I built two virtual machines. The first one is Windows 10 Pro, for which I created an ISO image using a<a href="https://www.microsoft.com/en-ca/software-download/windows10iso"> media creation tool.</a> I named this virtual machine "demo" and configured it with a base memory of 4 GB, one CPU, and a virtual hard disk of 50 GB.<br />
 The second machine is Kali Linux, which I downloaded and imported as a 64-bit pre-built virtual machine from <a href="https://www.kali.org/get-kali/#kali-virtual-machines" target="_blank">kali.org</a>. I did not perform any additional configuration for this machine. With this, the basic setup of downloading and importing the necessary tools was completed, resulting in the state shown in the picture below.
 <img src="https://i.imgur.com/73Ajar1.png" alt="Setup State" style="max-width: 100%; height: auto;">
-
-
 <h3 id="part2">Part 2:</h3>
+Here, I configured the network settings of the two virtual machines to enable malware analysis. In this lab, I set up an Internal Network where the two virtual machines can communicate with each other but are isolated from the host machine.
+
+First, I configured the Windows 10 virtual machine. I set its network adapter to "Attached to Internal Network" and named the network "mytest." 
+<img src="" style="max-width: 100%; height: auto;">
+I applied the same configuration to the Kali Linux virtual machine, ensuring that both machines are on the same internal network.
+<img src="" style="max-width: 100%; height: auto;">
+
+Next, I assigned static IP addresses to both machines so they could communicate seamlessly. For the Windows machine, I set the IP address to 192.168.20.10.
+<img src="" style="max-width: 100%; height: auto;">
+<img src="" style="max-width: 100%; height: auto;">
+I configured the Kali Linux machine the same.
+<img src="" style="max-width: 100%; height: auto;">
+<img src="" style="max-width: 100%; height: auto;">
+
+Finally, I verified the connectivity between the two machines by using the ping command from the Windows machine. As shown in the image below, the two machines successfully connected and communicated with each other.
+<img src="" style="max-width: 100%; height: auto;">
 <h2>Conclusion</h2>
